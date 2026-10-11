@@ -68,7 +68,28 @@ _Add a screenshot of the BMW Sales Overview page here after uploading it to the 
 <!-- Replace the placeholder below with the actual uploaded image path:
 ![BMW Sales Overview](images/dashboard-overview.png)
 -->
+## Project Preview
 
+### BMW Sales Overview
+![BMW Sales Overview](dashboard-overview.png)
+
+### BMW M3 Analysis
+![BMW M3 Analysis](dashboard-M3.png)
+
+### BMW M5 Analysis
+![BMW M5 Analysis](dashboard-M5.png)
+
+### BMW X3 Analysis
+![BMW X3 Analysis](dashboard-X3.png)
+
+### BMW X6 Analysis
+![BMW X6 Analysis](dashboard-X6.png)
+
+### BMW i3 Analysis
+![BMW i3 Analysis](dashboard-i3.png)
+
+### BMW i8 Analysis
+![BMW i8 Analysis](dashboard-i8.png)
 ## Author
 
 **Aspiring Data Analyst**  
