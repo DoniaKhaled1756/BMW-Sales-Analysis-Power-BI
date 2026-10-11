@@ -1,4 +1,3 @@
-# BMW-Sales-Analysis-Power-BI
 # BMW Sales Analysis Dashboard | Power BI
 
 <p align="center">
